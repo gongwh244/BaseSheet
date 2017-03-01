@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BaseSheet"
-  s.version      = “2.0.0”
+  s.version      = "2.1.1"
   s.summary      = "一个可以定制的sheet"
   s.homepage     = "https://www.baidu.com"
   s.license      = "MIT"
